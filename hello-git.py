@@ -1,4 +1,5 @@
-print("Hi, I'm using git! And it's a lot of fun until you have a merge 
-conflict.")
+print("Hi, I'm using git! It's nice sometimes, but sometimes hard.")
 
 print("Another printout")
+
+print("Add some more prints")
